@@ -10,5 +10,21 @@ public record CotizacionOmdb(String usd,
                              String aud,
                              String pen,
                              String mxn) {
+
+    @Override
+    public String toString() {
+        return "CotizacionOmdb{" +
+                "usd='" + usd + '\'' +
+                ", bob='" + bob + '\'' +
+                ", ars='" + ars + '\'' +
+                ", brl='" + brl + '\'' +
+                ", col='" + col + '\'' +
+                ", cny='" + cny + '\'' +
+                ", egp='" + egp + '\'' +
+                ", aud='" + aud + '\'' +
+                ", pen='" + pen + '\'' +
+                ", mxn='" + mxn + '\'' +
+                '}';
+    }
 }
 
