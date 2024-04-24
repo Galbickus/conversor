@@ -47,3 +47,8 @@ https://github.com/Galbickus/conversor/assets/135274833/2b4b27e2-6f71-4b1a-8586-
 # Menú de la app
 
 ![Menu](https://github.com/Galbickus/conversor/assets/135274833/d0406a89-c42e-4575-925a-fb85427e8fc2)
+
+# Ejemplo de Resultado 
+
+
+![Resultado](https://github.com/Galbickus/conversor/assets/135274833/a76802a8-dc8c-4ced-83e2-185523d6afe3)
