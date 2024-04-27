@@ -23,7 +23,7 @@ Consumo de la API;
 Análisis de la Respuesta JSON;
 Filtro de Monedas;
 Exhibición de Resultados a los usuarios;
-# Recursos empleados 🚀
+# Recursos empleados 
 Utiliza las siguientes tecnologías y herramientas:
 - **Java**: El lenguaje de programación principal utilizado para desarrollar la lógica de la aplicación
 - **API**: de Tasas de Cambio: <a href="https://www.exchangerate-api.com">Tasas por API de tipo de cambio</a> "Exchangerate-api.com". Por obvias razones no se incluirá la ApiKey en el repo público. Para obtener una Key gratuita ingrese a la página y gestione una solo con registrarse.
